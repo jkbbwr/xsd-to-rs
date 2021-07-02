@@ -1,4 +1,3 @@
-
 mod pain_001_001_11 {
     use rust_decimal::Decimal;
     #[derive(xsd_to_rs::Schema)]
@@ -7,5 +6,4 @@ mod pain_001_001_11 {
 }
 
 #[test]
-fn works() {
-}
+fn works() {}
